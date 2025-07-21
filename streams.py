@@ -33,4 +33,5 @@ with col2:
      st.plotly_chart(bar_fig,use_container_width=True)
 
 st.button("Submit")
+st.sidebar("Hello Simran")
 
