@@ -34,4 +34,4 @@ with col2:
 
 st.button("Submit")
 st.title("Hello Simran")
-st.text_input("Enter your age")
+
